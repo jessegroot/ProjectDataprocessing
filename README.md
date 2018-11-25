@@ -6,6 +6,7 @@ o	Today most discussions are about the climate change. So it would be nice to sh
 •	Solution:
 o	By visualizing which country’s actually harm the world the most by Greenhouse gas emissions/head. We can target country’s which cause the most harm and feel good about ourselves because we life in a green country.
 o	I’m not visual.
+
 o	Main features:
 	1) showing a map of the world and displaying each country in their own correct collar.
 	2) possibility to change years.
