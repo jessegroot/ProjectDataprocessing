@@ -1,11 +1,11 @@
 # ProjectDataprocessing
 
-Proposal:
-•	Problem statement:
-o	Today most discussions are about the climate change. So it would be nice to show which country’s do good or bad. This will be done by making a world map and thereon showing the country’s in their reprehensive collar depended on their Greenhouse gas emissions/population. To show which country’s to target hard and which country’s has almost no use in reducing Greenhouse gas emissions. 
+# Proposal:
+# •	Problem statement:
+# o	Today most discussions are about the climate change. So it would be nice to show which country’s do good or bad. This will be done by making a world map and thereon showing the country’s in their reprehensive collar depended on their Greenhouse gas emissions/population. To show which country’s to target hard and which country’s has almost no use in reducing Greenhouse gas emissions. 
 
-•	Solution:
-o	By visualizing which country’s actually harm the world the most by Greenhouse gas emissions/head. We can target country’s which cause the most harm and feel good about ourselves because we life in a green country.
+# •	Solution:
+# o	By visualizing which country’s actually harm the world the most by Greenhouse gas emissions/head. We can target country’s which cause the most harm and feel good about ourselves because we life in a green country.
 o	I’m not visual.
 o	Main features:
 	1) showing a map of the world and displaying each country in their own correct collar.
